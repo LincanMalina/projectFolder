@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Best product in the world</title>
+      <meta name="description" content="Best product in the world made whith HTML5">
+      <meta name="author" content="Lincan Malina">
+      <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <!--header-->
+      <header>
+        <img src="http://fakeimg.pl/50x50/">logo
+        <nav>
+          <ul>
+            <li>Who we are</li>
+            <li>What we do</li>
+            <li>Terms</li>
+            <li>Contact us</li>
+          </ul>
+        </nav>
+      </header>
+        <!--header -->
+
+    <!--main-->
+      <main>
+        <section>
+          <h1>PERFECT</h1>
+
+            <article>
+              <h2>Just perfect</h2>
+              <img src="http://fakeimg.pl/250x100/">
+            <article>
+
+            <article>
+              <h3>Simplicity in the Product's vision</h3>
+              <p>Understanding the user need's make this product <strong> the best</strong> in the world and what <em>it does</em>.
+            </article>
+
+            <article>
+              <h3>Affordable,reliable and visionary</h3>
+              <p>The product was reliable ten yars ago,in realiable today and it will be <strong>forever</strong>.</p>
+              <img src="http://fakeimg.pl/250x100/">
+            </article>
+
+        </section>
+      <section>
+        <h3>Subscribe to our newsletter by providing a few info<h3>
+
+          <form>
+            <input type="text" name="firstname" placeholder="your full name">
+            <input type="text" name="emailadress" placeholder="your email adress">
+            <button name="subscribe">Subscribe</button>
+          </form>
+
+        </section>
+      </main>
+      <!--main-->
+
+    <!--aside-->
+        <aside>
+          <h4>The following 3 lines,including this one,are aside from the page main contentent</h4>
+          <h4> footer section begins below the line</h4>
+          <hr class="separator">
+        </aside>
+      <!--aside-->
+
+      <!--footer-->
+        <footer>
+          <h4>To became a master you need:</h4>
+            <ul>
+              <li><strong>User research</li></strong>
+                <li>Information arhitecture</li>
+                <li>Protyping</li>
+                <li>Interaction design</li>
+                <li>Visual design</li>
+                <li>Content specialization</li>
+              </ul>
+            <h4>To becam a guru you need also:</strong></h4>
+              <ul>
+                <li>HTML</LI>
+                <li>CSS</li>
+                <li><strong>JavaScript</strong></li>
+                <li>NodeJS</li>
+                <li>ReactJS</li>
+                <li>AnglarJS</li>
+              </ul>
+              <hr class="section">
+        </footer>
+  </body>
+</html>
